@@ -1,5 +1,5 @@
 # my_procurement_scraper
-Scraper for the myprocurement Website
+Scrapes data from the Malaysian MyProcurement Website (http://myprocurement.treasury.gov.my/)
 
 This replaces the old work I did here https://github.com/keithrozario/MyProcurementDataScrapper
 
